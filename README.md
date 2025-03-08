@@ -9,6 +9,7 @@ This project analyzes **911 emergency call data** to uncover trends and insights
 Below are some key insights from the dataset:
 
 ### 1️⃣ Calls by Reason
+![Calls by Reason](png/911_calls_by_reason.png)
 
 
 
